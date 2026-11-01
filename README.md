@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Vishnu%20Prasad%20M.&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,2,0&height=180&section=header&text=Vishnu%20Prasad%20M.&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### *Software Engineer • Distributed Systems & AI Enthusiast*
 
@@ -58,7 +58,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-23-45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-2345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-23-45&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
