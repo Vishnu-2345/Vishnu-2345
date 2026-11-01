@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,2,0&height=180&section=header&text=Vishnu%20Prasad%20M.&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Vishnu%20Prasad%20M.&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### *Software Engineer • Distributed Systems & AI Enthusiast*
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-2345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -70,9 +70,10 @@
 
 <div align="center">
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-m-584671230/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuprasadm25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-m-584671230/)
+[![Connect](https://img.shields.io/badge/CONNECT-0055FF?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/vishnu-prasad-m-584671230/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuprasadm25@gmail.com)
+[![Get in Touch](https://img.shields.io/badge/GET%20IN%20TOUCH-FF4500?style=for-the-badge&logoColor=white)](mailto:vishnuprasadm25@gmail.com)
 
 </div>
 
