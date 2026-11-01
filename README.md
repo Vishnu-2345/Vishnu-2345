@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishnu-23-45&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Vishnu-2345&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Location](https://img.shields.io/badge/Bengaluru-India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to-Internships%20%26%20Roles-2ea043?style=flat-square)
 
@@ -61,9 +61,9 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| **[Real-Time Telemetry & Metric Aggregator](https://github.com/Vishnu-23-45/REPO-NAME)** | Streams multi-node server metrics through Kafka, computes rolling **P95 latency** over 30s windows with watermarking, and fires alerts on thresholds. | `Kafka` `PySpark` `PostgreSQL` `Docker` |
-| **[Distributed Image Processing Pipeline](https://github.com/Vishnu-23-45/REPO-NAME)** | Tiles large images into chunks, processes them in parallel across Kafka workers, and reassembles the output. | `Kafka` `FastAPI` `OpenCV` `Redis` `Docker` `Mini-UnionFS` |
-| **[Video KYC Fraud Detection](https://github.com/Vishnu-23-45/REPO-NAME)** | Deep-learning fraud detection with **concept and feature drift monitoring** (ADWIN, PSI, KS-test, MMD). Research-oriented. | `PyTorch` `OpenCV` `Python` |
+| **[Real-Time Telemetry & Metric Aggregator](https://github.com/Vishnu-2345/REPO-NAME)** | Streams multi-node server metrics through Kafka, computes rolling **P95 latency** over 30s windows with watermarking, and fires alerts on thresholds. | `Kafka` `PySpark` `PostgreSQL` `Docker` |
+| **[Distributed Image Processing Pipeline](https://github.com/Vishnu-2345/REPO-NAME)** | Tiles large images into chunks, processes them in parallel across Kafka workers, and reassembles the output. | `Kafka` `FastAPI` `OpenCV` `Redis` `Docker` `Mini-UnionFS` |
+| **[Video KYC Fraud Detection](https://github.com/Vishnu-2345/REPO-NAME)** | Deep-learning fraud detection with **concept and feature drift monitoring** (ADWIN, PSI, KS-test, MMD). Research-oriented. | `PyTorch` `OpenCV` `Python` |
 
 > 📌 Replace each `REPO-NAME` with the actual repo so the titles link straight to the code.
 
@@ -72,20 +72,20 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnu-23-45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-23-45&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishnu-2345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-2345&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishnu-23-45&theme=tokyonight&hide_border=true" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Vishnu-2345&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnu-23-45/Vishnu-23-45/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishnu-23-45/Vishnu-23-45/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnu-2345/Vishnu-2345/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vishnu-2345/Vishnu-2345/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
