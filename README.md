@@ -1,45 +1,45 @@
-👋 Hi, I'm Vishnu Prasad M
+<div align="center">
 
-🎓 Computer Science & Engineering student at PES University, Bengaluru (2027) 💡 Passionate about building real-time data systems and applied machine learning 🚀 Exploring Distributed Systems, Stream Processing, and Computer Vision
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Vishnu%20Prasad%20M.&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-🧠 About Me
-⚡ Building event-driven pipelines with Apache Kafka and PySpark Structured Streaming
-🖥️ Designing distributed systems: file systems, worker pipelines, fault tolerance
-🤖 Working on deep learning and computer vision (PyTorch, OpenCV)
-🌐 Developing backend services with FastAPI, PostgreSQL, and Redis
-🐳 Containerizing everything with Docker
-🎯 Current Focus
-Stream processing and real-time analytics
-Fraud detection and model drift monitoring
-Fault-tolerant distributed architectures
-Backend and data engineering
-🛠️ Tech Arsenal
-💻 Programming Languages
+### *Software Engineer • Distributed Systems & AI Enthusiast*
 
-Show Image Show Image
+</div>
 
-🌊 Data & Streaming
+---
 
-Show Image Show Image Show Image Show Image
+### About Me
 
-⚙️ Backend
+I am an undergraduate Computer Science and Engineering student at PES University, Bengaluru. I build reliable, distributed backend systems and real-time data pipelines, with a strong focus on Python, event-driven architectures, and machine learning integration.
 
-Show Image Show Image
+---
 
-🤖 AI & Machine Learning
+### Tech Stack
 
-Show Image Show Image Show Image Show Image
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C, C++, JavaScript, SQL |
+| **Frameworks & Web** | FastAPI, Flask, Express, Node.js, React.js |
+| **Data & Streaming** | PostgreSQL, MySQL, Redis, SQLite, Apache Kafka, Apache Spark, PySpark, Hadoop |
+| **DevOps & Tools** | Docker, Git, Linux (WSL/VMware), pgAdmin, VS Code |
 
-🧰 Tools & Platforms
+---
 
-Show Image Show Image Show Image
+### GitHub Stats
 
-📌 Featured Projects
-Project	What it does	Stack
-Real-Time Telemetry & Metric Aggregator	Streams multi-node server metrics through Kafka, computes rolling P95 latency with 30s windows and watermarking, and alerts on thresholds	Kafka, PySpark, PostgreSQL, Docker
-Distributed Image Processing Pipeline	Tiles large images into chunks, processes them in parallel across Kafka workers, and reassembles the output	Kafka, FastAPI, OpenCV, Redis, Docker
-Mini-UnionFS	Distributed file system with a unified interface across multiple storage nodes and fault-tolerant storage	Python, FastAPI, PostgreSQL, Docker
-Video KYC Fraud Detection	Deep learning fraud detection with concept and feature drift monitoring (ADWIN, PSI, KS-test, MMD)	PyTorch, OpenCV, Python
-📫 Connect With Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuprasad-1234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuprasad-1234&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-LinkedIn Email
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnuprasad-1234&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,2,0&height=100&section=footer" width="100%" />
+
+</div>
